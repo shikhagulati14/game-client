@@ -9,6 +9,8 @@ Play and enjoy the game.
 Sample output:
 
 Waiting for opponent to make his move...
+
+
 [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] 
 
 [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] 
